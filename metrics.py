@@ -123,9 +123,13 @@ def _is_capitalised(word: str) -> bool:
     return first_letter.isupper()
 
 
+# AfriSpeech references often drop apostrophes: "Im happy that Im still progressing".
+_PRONOUN_I_WITHOUT_APOSTROPHE = frozenset({"I", "Im", "Ive", "Ill", "Id"})
+
+
 def _is_pronoun_i(core: str) -> bool:
-    """"I", "I'm", "I'll", "I've", "I'd" (straight or curly apostrophe)."""
-    return core == "I" or core[:2] in ("I'", "I’")
+    """"I" and its contractions, with a straight, curly or missing apostrophe."""
+    return core in _PRONOUN_I_WITHOUT_APOSTROPHE or core[:2] in ("I'", "I’")
 
 
 def find_proper_noun_positions(reference: object) -> set[int] | None:

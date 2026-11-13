@@ -150,6 +150,14 @@ def test_sentence_initial_capitals_and_pronoun_i_are_not_names():
     assert found == {"Ibadan", "Tunde."}
 
 
+def test_pronoun_i_without_apostrophe_is_not_a_name():
+    # A real AfriSpeech reference: the dataset strips apostrophes from "I'm".
+    ref = "Im happy that Im still progressing, said Seyi Shay."
+    words = ref.split()
+    found = {words[p] for p in find_proper_noun_positions(ref)}
+    assert found == {"Seyi", "Shay."}
+
+
 def test_known_limitation_name_at_sentence_start_is_missed():
     # Documented heuristic limitation: we cannot tell this "Tunde" is a name.
     assert find_proper_noun_positions("Tunde went home.") == set()
