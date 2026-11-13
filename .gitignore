@@ -1,0 +1,36 @@
+# --- Audio: NEVER commit. AfriSpeech is CC BY-NC-SA 4.0 and speakers deserve privacy. ---
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.opus
+*.aac
+*.amr
+*.3gp
+*.webm
+*.mp4
+audio/
+my_recordings/
+
+# Hugging Face / dataset caches and tokens
+.cache/
+hf_cache/
+.huggingface/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

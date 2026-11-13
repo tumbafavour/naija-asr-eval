@@ -1,0 +1,8 @@
+# Laptop requirements: enough to run metrics.py and its tests. No GPU, no torch.
+#   python -m venv .venv
+#   .venv\Scripts\activate          (Windows)
+#   pip install -r requirements.txt
+#   pytest -v
+numpy>=1.26
+pytest>=8.0
+jiwer>=3.0   # optional: only used by one test that cross-checks our edit distance

@@ -1,0 +1,6 @@
+# Extra packages for the Colab notebook (torch, numpy, pandas and matplotlib are preinstalled on Colab).
+# AfriSpeech-200 uses a dataset loading script, which `datasets` 4.0 removed support for.
+datasets>=2.19,<4.0
+transformers>=4.40
+librosa>=0.10
+soundfile>=0.12
