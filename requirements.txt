@@ -1,4 +1,4 @@
-# Laptop requirements: enough to run metrics.py and its tests. No GPU, no torch.
+# Laptop requirements: enough to run metrics.py, slr70.py and their tests. No GPU, no torch.
 #   python -m venv .venv
 #   .venv\Scripts\activate          (Windows)
 #   pip install -r requirements.txt
