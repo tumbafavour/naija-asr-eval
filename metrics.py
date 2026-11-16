@@ -17,7 +17,7 @@ import string
 import unicodedata
 from collections import Counter
 from dataclasses import dataclass
-from typing import Iterable, Sequence
+from typing import Callable, Hashable, Iterable, Sequence
 
 import numpy as np
 
@@ -326,6 +326,19 @@ def score_clip(reference: object, hypothesis: object) -> ClipScore:
     return ClipScore(ErrorCounts.from_alignment(pairs), tuple(pairs), proper_nouns)
 
 
+def counts_with_normalizer(reference: object, hypothesis: object, normalize: Callable[[str], str]) -> ErrorCounts:
+    """Error counts after a whole-sentence normaliser, e.g. Whisper's English normaliser.
+
+    That normaliser rewrites across words ("thirty five" -> "35", "colour" -> "color"),
+    so reference word positions are not preserved and no proper-noun analysis is
+    possible here. Used only as a robustness check on WER. A reference that
+    normalises to nothing gives ref_words == 0 (its insertions still count).
+    """
+    def words(text: object) -> list[Token]:
+        return [Token(w, w, i) for i, w in enumerate(normalize(_clean_text(text)).split())]
+    return ErrorCounts.from_alignment(align(words(reference), words(hypothesis)))
+
+
 def format_alignment(pairs: Iterable[AlignedPair]) -> str:
     """Readable one-line alignment: 'my name is [sobande->show] [+bandit]'."""
     parts = []
@@ -468,3 +481,58 @@ def bootstrap_wer_difference(
     low, high = _interval(diffs, confidence)
     value = num_a.sum() / den_a.sum() - num_b.sum() / den_b.sum()
     return Estimate(float(value), low, high)
+
+
+# --------------------------------------------------------------------------- #
+# Speaker-level (cluster) bootstrap
+# --------------------------------------------------------------------------- #
+
+def sum_by_cluster(
+    numerators: Sequence[float], denominators: Sequence[float], clusters: Sequence[Hashable]
+) -> tuple[np.ndarray, np.ndarray]:
+    """Add up numerators and denominators per cluster (e.g. per speaker)."""
+    num, den = _as_count_arrays(numerators, denominators)
+    labels = list(clusters)
+    if len(labels) != len(num):
+        raise ValueError("clusters must have one label per clip")
+    _, cluster_index = np.unique(np.asarray(labels, dtype=str), return_inverse=True)
+    n_clusters = cluster_index.max() + 1
+    return (np.bincount(cluster_index, weights=num, minlength=n_clusters),
+            np.bincount(cluster_index, weights=den, minlength=n_clusters))
+
+
+def bootstrap_wer_by_speaker(
+    errors: Sequence[int],
+    ref_words: Sequence[int],
+    speakers: Sequence[Hashable],
+    n_resamples: int = 2000,
+    confidence: float = 0.95,
+    seed: int = 0,
+) -> Estimate:
+    """Corpus WER with a CI that resamples whole speakers instead of clips.
+
+    Clips from one speaker are not independent: a speaker who is hard to
+    understand is hard in every clip. Resampling speakers keeps each speaker's
+    clips together, so with few speakers the interval is honestly wider. The
+    point estimate is unchanged, because the ratio of sums over speakers equals
+    the ratio of sums over clips.
+    """
+    num, den = sum_by_cluster(errors, ref_words, speakers)
+    return bootstrap_ratio(num, den, n_resamples, confidence, seed)
+
+
+def bootstrap_wer_difference_by_speaker(
+    errors_a: Sequence[int],
+    ref_words_a: Sequence[int],
+    speakers_a: Sequence[Hashable],
+    errors_b: Sequence[int],
+    ref_words_b: Sequence[int],
+    speakers_b: Sequence[Hashable],
+    n_resamples: int = 2000,
+    confidence: float = 0.95,
+    seed: int = 0,
+) -> Estimate:
+    """WER(a) - WER(b) with each group's speakers resampled independently."""
+    num_a, den_a = sum_by_cluster(errors_a, ref_words_a, speakers_a)
+    num_b, den_b = sum_by_cluster(errors_b, ref_words_b, speakers_b)
+    return bootstrap_wer_difference(num_a, den_a, num_b, den_b, n_resamples, confidence, seed)

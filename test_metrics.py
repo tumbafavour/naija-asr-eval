@@ -7,9 +7,10 @@ import pytest
 
 from metrics import (
     DEL, INS, MATCH, SUB,
-    ErrorCounts, align, bootstrap_ratio, bootstrap_wer, bootstrap_wer_difference,
-    corpus_wer, find_proper_noun_positions, format_alignment, normalize_token,
-    proper_noun_counts, score_clip, tokenize, top_substitutions, worst_clips,
+    ErrorCounts, align, bootstrap_ratio, bootstrap_wer, bootstrap_wer_by_speaker, bootstrap_wer_difference,
+    bootstrap_wer_difference_by_speaker, corpus_wer, counts_with_normalizer, find_proper_noun_positions,
+    format_alignment, normalize_token, proper_noun_counts, score_clip, sum_by_cluster, tokenize,
+    top_substitutions, worst_clips,
 )
 
 
@@ -270,3 +271,66 @@ def test_bootstrap_difference():
     est = bootstrap_wer_difference(noisy_a, words, noisy_a, words)
     assert est.ci_low < 0 < est.ci_high          # same data: no real gap
     assert not math.isnan(est.value)
+
+
+# ----------------------------------------------------------------- whole-sentence normaliser (robustness check)
+
+def toy_normalizer(text: str) -> str:
+    """Stands in for Whisper's normaliser: lowercase, drop punctuation, spell numbers as digits."""
+    text = text.lower().replace("thirty five", "35").replace("thirty", "30").replace("colour", "color")
+    return "".join(ch for ch in text if ch.isalnum() or ch.isspace())
+
+
+def test_normalizer_removes_formatting_only_differences():
+    ref, hyp = "I am thirty five, and I like the colour red.", "I am 35 and I like the color red"
+    # Our per-word rules: thirty->35 (sub) + five (del) + colour->color (sub) = 3 errors.
+    assert score_clip(ref, hyp).counts.errors == 3
+    assert counts_with_normalizer(ref, hyp, toy_normalizer).errors == 0
+
+
+def test_normalizer_counts_real_errors_and_empty_output():
+    counts = counts_with_normalizer("Continue onto Awolowo Way", "continue on to our world war", toy_normalizer)
+    assert counts.ref_words == 4 and counts.errors > 0
+    empty = counts_with_normalizer("Warri is in Delta", "", toy_normalizer)
+    assert empty.deletions == 4 and empty.wer == pytest.approx(1.0)
+
+
+def test_normalizer_that_empties_reference_gives_zero_ref_words():
+    counts = counts_with_normalizer("...", "uh", toy_normalizer)
+    assert counts.ref_words == 0 and counts.insertions == 1 and math.isnan(counts.wer)
+
+
+# ----------------------------------------------------------------- speaker-level bootstrap
+
+def test_sum_by_cluster_adds_up_per_speaker():
+    num, den = sum_by_cluster([1, 2, 3, 4], [10, 10, 10, 10], ["b", "a", "b", "a"])
+    assert list(num) == [6, 4] and list(den) == [20, 20]     # clusters sorted: a, b
+
+
+def test_speaker_bootstrap_equals_clip_bootstrap_with_one_clip_per_speaker():
+    errors, words = [1, 0, 3, 2, 5, 0, 1], [10, 8, 12, 9, 20, 5, 7]
+    speakers = [f"s{i}" for i in range(7)]                   # already in sorted order
+    assert bootstrap_wer_by_speaker(errors, words, speakers, seed=3) == bootstrap_wer(errors, words, seed=3)
+
+
+def test_speaker_bootstrap_keeps_point_estimate_and_widens_ci_for_clustered_speakers():
+    # 4 speakers x 50 clips: two easy speakers (0/10 errors) and two hard ones (5/10).
+    errors = [0] * 100 + [5] * 100
+    words = [10] * 200
+    speakers = [f"s{i // 50}" for i in range(200)]
+    by_clip = bootstrap_wer(errors, words, seed=1)
+    by_speaker = bootstrap_wer_by_speaker(errors, words, speakers, seed=1)
+    assert by_speaker.value == pytest.approx(by_clip.value) == pytest.approx(0.25)
+    assert (by_speaker.ci_high - by_speaker.ci_low) > 3 * (by_clip.ci_high - by_clip.ci_low)
+
+
+def test_speaker_bootstrap_rejects_wrong_label_count():
+    with pytest.raises(ValueError):
+        bootstrap_wer_by_speaker([1, 2], [10, 10], ["a"])
+
+
+def test_speaker_bootstrap_difference():
+    est = bootstrap_wer_difference_by_speaker([3] * 20, [10] * 20, [f"a{i % 4}" for i in range(20)],
+                                              [1] * 20, [10] * 20, [f"b{i % 5}" for i in range(20)])
+    assert est.value == pytest.approx(0.2)
+    assert est.ci_low == pytest.approx(0.2) and est.ci_high == pytest.approx(0.2)

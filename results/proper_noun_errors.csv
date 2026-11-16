@@ -1,0 +1,1060 @@
+model,clip_id,group,name,correct,heard_as
+whisper-tiny,slr70-ngf_07508_02090606640,Nigerian English (SLR70),Ijaw,False,ejor
+whisper-tiny,slr70-ngf_07508_02090606640,Nigerian English (SLR70),Christians,True,christians
+whisper-tiny,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngf_02121_01471103165,Nigerian English (SLR70),West,True,west
+whisper-tiny,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Africa's,True,africas
+whisper-tiny,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Located,False,highlancy plantations look at that in kakarata
+whisper-tiny,slr70-ngf_02121_01471103165,Nigerian English (SLR70),In,False,highlancy plantations look at that in kakarata
+whisper-tiny,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Kakara,False,highlancy plantations look at that in kakarata
+whisper-tiny,slr70-ngf_04310_01439906629,Nigerian English (SLR70),Hebrews,False,ebrows
+whisper-tiny,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Bros,False,one of us created her potsa glober
+whisper-tiny,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Harry,False,one of us created her potsa glober
+whisper-tiny,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Potter,False,one of us created her potsa glober
+whisper-tiny,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Harry,False,rpotsa
+whisper-tiny,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Potter,False,rpotsa
+whisper-tiny,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Wizarding,True,wizarding
+whisper-tiny,slr70-ngf_02436_00804725189,Nigerian English (SLR70),World,False,wood
+whisper-tiny,slr70-ngf_09334_01392483947,Nigerian English (SLR70),Cameroon,False,we stand camera room
+whisper-tiny,slr70-ngf_09334_01392483947,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngf_07049_00819257439,Nigerian English (SLR70),Queen,True,queen
+whisper-tiny,slr70-ngf_12484_00669270730,Nigerian English (SLR70),National,True,national
+whisper-tiny,slr70-ngf_12484_00669270730,Nigerian English (SLR70),Doughnut,False,donut
+whisper-tiny,slr70-ngf_12484_00669270730,Nigerian English (SLR70),Day,True,day
+whisper-tiny,slr70-ngf_05223_01725838818,Nigerian English (SLR70),Houston,True,houston
+whisper-tiny,slr70-ngf_05223_01725838818,Nigerian English (SLR70),Hamburg,True,hamburg
+whisper-tiny,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Sandman,False,sanman
+whisper-tiny,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Gaiman,True,gaiman
+whisper-tiny,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Death,True,death
+whisper-tiny,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Dream,True,dream
+whisper-tiny,slr70-ngf_07508_01190081775,Nigerian English (SLR70),Cali,False,khalids
+whisper-tiny,slr70-ngf_07508_01190081775,Nigerian English (SLR70),Birmingham,True,birmingham
+whisper-tiny,slr70-ngf_07508_01190081775,Nigerian English (SLR70),December,True,december
+whisper-tiny,slr70-ngf_02436_00497631743,Nigerian English (SLR70),Ogoni,False,a bunny
+whisper-tiny,slr70-ngf_02436_00497631743,Nigerian English (SLR70),Khana,False,kanna
+whisper-tiny,slr70-ngf_12484_01442041749,Nigerian English (SLR70),Atlanta,True,atlanta
+whisper-tiny,slr70-ngf_12484_01442041749,Nigerian English (SLR70),Georgia,True,georgia
+whisper-tiny,slr70-ngf_12484_01442041749,Nigerian English (SLR70),USA,True,usa
+whisper-tiny,slr70-ngf_05223_00207574014,Nigerian English (SLR70),Orlu,False,oulu
+whisper-tiny,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Chris,True,chris
+whisper-tiny,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Gehringer,False,goringer
+whisper-tiny,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Sterling,True,sterling
+whisper-tiny,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Sound,True,sound
+whisper-tiny,slr70-ngf_06136_00624281315,Nigerian English (SLR70),New,True,new
+whisper-tiny,slr70-ngf_06136_00624281315,Nigerian English (SLR70),York,True,york
+whisper-tiny,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Nwashuku,False,with shots including one shukou curry
+whisper-tiny,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Okeri,False,with shots including one shukou curry
+whisper-tiny,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Ghadafi,False,garafi is eiffelid
+whisper-tiny,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Ezeifile,False,garafi is eiffelid
+whisper-tiny,slr70-ngf_00295_00869830997,Nigerian English (SLR70),Karnataka's,False,kana takas flare
+whisper-tiny,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Western,True,western
+whisper-tiny,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Ifeoma,False,chiang wei iforma chuku goroi
+whisper-tiny,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Chukwuogo-Roy,False,chiang wei iforma chuku goroi
+whisper-tiny,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Awka,False,okara
+whisper-tiny,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Asian,True,asian
+whisper-tiny,slr70-ngf_02121_00912452686,Nigerian English (SLR70),African,True,african
+whisper-tiny,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Africa,True,africa
+whisper-tiny,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Zimbabwe,True,zimbabwe
+whisper-tiny,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Sri,True,sri
+whisper-tiny,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Lanka,True,lanka
+whisper-tiny,slr70-ngf_13397_00986779243,Nigerian English (SLR70),Scotland,True,scotland
+whisper-tiny,slr70-ngf_07049_01434063268,Nigerian English (SLR70),Sun,True,sun
+whisper-tiny,slr70-ngf_06136_00086683621,Nigerian English (SLR70),Plateau,False,plato
+whisper-tiny,slr70-ngf_06136_00086683621,Nigerian English (SLR70),State,True,state
+whisper-tiny,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Sam,True,sam
+whisper-tiny,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Amuka,False,amu kappin
+whisper-tiny,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Pemu,False,amu kappin
+whisper-tiny,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-tiny,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Vanguard,True,vanguard
+whisper-tiny,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Port,False,portaqot
+whisper-tiny,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Harcourt,False,portaqot
+whisper-tiny,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Warri,False,worry
+whisper-tiny,slr70-ngf_03349_00316858694,Nigerian English (SLR70),Cobain’s,False,cobanks left feud
+whisper-tiny,slr70-ngf_03349_00316858694,Nigerian English (SLR70),Burroughs-ian,False,burroughs a young college
+whisper-tiny,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Yelwa,False,yalwa
+whisper-tiny,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Mayo,False,mayodhikawal
+whisper-tiny,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Jigawal,False,mayodhikawal
+whisper-tiny,slr70-ngf_07508_00426225333,Nigerian English (SLR70),Asian,True,asian
+whisper-tiny,slr70-ngf_07508_00426225333,Nigerian English (SLR70),China,True,china
+whisper-tiny,slr70-ngf_07508_00426225333,Nigerian English (SLR70),Japan,False,
+whisper-tiny,slr70-ngf_04310_01272673750,Nigerian English (SLR70),LA,True,la
+whisper-tiny,slr70-ngf_04310_01272673750,Nigerian English (SLR70),Galaxy,False,galaxia
+whisper-tiny,slr70-ngf_02436_01336084577,Nigerian English (SLR70),European,True,european
+whisper-tiny,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Netherlands,True,netherlands
+whisper-tiny,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Rhine,False,reign
+whisper-tiny,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Waal,False,war
+whisper-tiny,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Meuse,False,it must
+whisper-tiny,slr70-ngf_09334_02123474476,Nigerian English (SLR70),Hines,False,and when he is published at the archaeological adity
+whisper-tiny,slr70-ngf_07049_02074471393,Nigerian English (SLR70),Kaduna,True,kaduna
+whisper-tiny,slr70-ngf_07049_02074471393,Nigerian English (SLR70),River,False,revised the triple tree
+whisper-tiny,slr70-ngf_07049_02074471393,Nigerian English (SLR70),Niger,True,niger
+whisper-tiny,slr70-ngf_07049_02074471393,Nigerian English (SLR70),River,True,river
+whisper-tiny,slr70-ngf_12484_00443694949,Nigerian English (SLR70),Starbucks,True,starbucks
+whisper-tiny,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-tiny,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Theophilus,False,philanthropists tiafilos
+whisper-tiny,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Danjuma,True,danjuma
+whisper-tiny,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-tiny,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Montane,False,mantine
+whisper-tiny,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Forest,True,forest
+whisper-tiny,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Project,False,projects
+whisper-tiny,slr70-ngf_01523_01610153741,Nigerian English (SLR70),Hawal,False,hauel
+whisper-tiny,slr70-ngf_01523_01610153741,Nigerian English (SLR70),River,True,river
+whisper-tiny,slr70-ngf_08421_00200811744,Nigerian English (SLR70),Kyle,False,loosehead kylie
+whisper-tiny,slr70-ngf_02121_00376815325,Nigerian English (SLR70),United,True,united
+whisper-tiny,slr70-ngf_02121_00376815325,Nigerian English (SLR70),States,True,states
+whisper-tiny,slr70-ngf_02121_00376815325,Nigerian English (SLR70),May,True,may
+whisper-tiny,slr70-ngf_02121_00376815325,Nigerian English (SLR70),July,True,july
+whisper-tiny,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Phage,False,fage
+whisper-tiny,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Shadow,True,shadow
+whisper-tiny,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Death,True,death
+whisper-tiny,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Wheel,False,will
+whisper-tiny,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Worlds,True,worlds
+whisper-tiny,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Ibo,False,etc on the ebore route
+whisper-tiny,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Road,False,etc on the ebore route
+whisper-tiny,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Emir,False,emirut
+whisper-tiny,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Road,False,emirut
+whisper-tiny,slr70-ngf_13397_00073151213,Nigerian English (SLR70),Thursday,True,thursday
+whisper-tiny,slr70-ngf_02484_01070585055,Nigerian English (SLR70),Mambila,True,mambila
+whisper-tiny,slr70-ngf_05223_00725573110,Nigerian English (SLR70),Cameroonian,False,camerunian
+whisper-tiny,slr70-ngf_00610_00521756928,Nigerian English (SLR70),Okagbare,False,okabou
+whisper-tiny,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Gurun,False,on to grungawar
+whisper-tiny,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Gawa,False,on to grungawar
+whisper-tiny,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Road,True,road
+whisper-tiny,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Adamawa,False,adamoa play 2
+whisper-tiny,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Plateau,False,adamoa play 2
+whisper-tiny,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Benue,False,benua
+whisper-tiny,slr70-ngf_03397_01207838616,Nigerian English (SLR70),River,True,river
+whisper-tiny,slr70-ngf_07508_00749184792,Nigerian English (SLR70),YA,True,ya
+whisper-tiny,slr70-ngf_13397_00186379124,Nigerian English (SLR70),Games,True,games
+whisper-tiny,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Nwagbo,False,it will be one post study mask
+whisper-tiny,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Mass,False,it will be one post study mask
+whisper-tiny,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Communication,True,communication
+whisper-tiny,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Nnamdi,False,namdi azikywa
+whisper-tiny,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Azikiwe,False,namdi azikywa
+whisper-tiny,slr70-ngf_00610_00586731816,Nigerian English (SLR70),University,True,university
+whisper-tiny,slr70-ngf_01208_01024111830,Nigerian English (SLR70),TV,True,tv
+whisper-tiny,slr70-ngf_03349_00578501610,Nigerian English (SLR70),Awolowo,False,on to our world war v
+whisper-tiny,slr70-ngf_03349_00578501610,Nigerian English (SLR70),Way,False,on to our world war v
+whisper-tiny,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Lake,False,the chat
+whisper-tiny,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Chad,False,the chat
+whisper-tiny,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Niger,False,nigeria
+whisper-tiny,slr70-ngf_00295_01203608568,Nigerian English (SLR70),Makurdi,False,makodi
+whisper-tiny,slr70-ngf_01523_01167462034,Nigerian English (SLR70),Irish,True,irish
+whisper-tiny,slr70-ngf_07508_01118664892,Nigerian English (SLR70),Who,True,who
+whisper-tiny,slr70-ngf_02121_00850439910,Nigerian English (SLR70),Fulfulde,False,full foodie
+whisper-tiny,slr70-ngf_04310_01954588528,Nigerian English (SLR70),Psalms,False,sounds
+whisper-tiny,slr70-ngf_02436_01379152411,Nigerian English (SLR70),Hamburg,True,hamburg
+whisper-tiny,slr70-ngf_02436_01379152411,Nigerian English (SLR70),Alexandria,False,south alexandra living
+whisper-tiny,slr70-ngf_02436_01379152411,Nigerian English (SLR70),June,True,june
+whisper-tiny,slr70-ngf_07049_01892468519,Nigerian English (SLR70),Tijani,False,a larger to january
+whisper-tiny,slr70-ngf_07049_01892468519,Nigerian English (SLR70),Road,False,a larger to january
+whisper-tiny,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Trains,True,trains
+whisper-tiny,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Steve,True,steve
+whisper-tiny,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Reich,False,rage
+whisper-tiny,slr70-ngf_00295_00533592558,Nigerian English (SLR70),West,True,west
+whisper-tiny,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Flanders,True,flanders
+whisper-tiny,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Southwest,False,south west
+whisper-tiny,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Netherlands,True,netherlands
+whisper-tiny,slr70-ngf_00295_00533592558,Nigerian English (SLR70),English,True,english
+whisper-tiny,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Channel,True,channel
+whisper-tiny,slr70-ngf_08421_00257345492,Nigerian English (SLR70),Google,True,google
+whisper-tiny,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Annang,False,anank ibibiu
+whisper-tiny,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Ibibio,False,anank ibibiu
+whisper-tiny,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Efik,False,ethic
+whisper-tiny,slr70-ngf_09334_00561288625,Nigerian English (SLR70),French,False,frenchadmetic
+whisper-tiny,slr70-ngf_13397_01540607308,Nigerian English (SLR70),Oyster,False,oystarkad phase
+whisper-tiny,slr70-ngf_13397_01540607308,Nigerian English (SLR70),Transport,False,transports
+whisper-tiny,slr70-ngf_13397_01540607308,Nigerian English (SLR70),London,True,london
+whisper-tiny,slr70-ngf_12484_01557755982,Nigerian English (SLR70),Jacksonville,True,jacksonville
+whisper-tiny,slr70-ngf_05223_00681223026,Nigerian English (SLR70),Uyo,False,uu
+whisper-tiny,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Northern,False,form of norton kamaru
+whisper-tiny,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Cameroon,False,form of norton kamaru
+whisper-tiny,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Province,True,province
+whisper-tiny,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Mubi,False,had quite a lot of ads movie
+whisper-tiny,slr70-ngf_06136_01312546283,Nigerian English (SLR70),Ukpabi,False,ebene opavi
+whisper-tiny,slr70-ngf_03349_00863382736,Nigerian English (SLR70),Dike,False,indeed the k
+whisper-tiny,slr70-ngm_02484_00715382317,Nigerian English (SLR70),Carter,False,gaima sees katta for each of
+whisper-tiny,slr70-ngm_08784_00499340906,Nigerian English (SLR70),Alaska,True,alaska
+whisper-tiny,slr70-ngm_08784_00499340906,Nigerian English (SLR70),Peninsula,True,peninsula
+whisper-tiny,slr70-ngm_08784_00499340906,Nigerian English (SLR70),North,True,north
+whisper-tiny,slr70-ngm_08784_00499340906,Nigerian English (SLR70),American,True,american
+whisper-tiny,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Mambilla,False,manbila plea to use
+whisper-tiny,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Plateau,False,manbila plea to use
+whisper-tiny,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Bantu-speaking,False,ban to speak in
+whisper-tiny,slr70-ngm_07049_01592044424,Nigerian English (SLR70),Barrel,False,bioreal
+whisper-tiny,slr70-ngm_07049_01592044424,Nigerian English (SLR70),Roll,False,bioreal
+whisper-tiny,slr70-ngm_02436_01210631292,Nigerian English (SLR70),Idemili,False,idemely
+whisper-tiny,slr70-ngm_02436_01210631292,Nigerian English (SLR70),North,True,north
+whisper-tiny,slr70-ngm_02436_01210631292,Nigerian English (SLR70),Anambra,True,anambra
+whisper-tiny,slr70-ngm_01523_00504649603,Nigerian English (SLR70),Nnenne,False,nene
+whisper-tiny,slr70-ngm_03397_00783071422,Nigerian English (SLR70),Port,False,pod mosby
+whisper-tiny,slr70-ngm_03397_00783071422,Nigerian English (SLR70),Moresby,False,pod mosby
+whisper-tiny,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Many,False,new year in many splendid
+whisper-tiny,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Splendoured,False,new year in many splendid
+whisper-tiny,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Thing,False,new year in many splendid
+whisper-tiny,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Yola,False,your lyrid to our
+whisper-tiny,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Road,False,your lyrid to our
+whisper-tiny,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Scope,True,scope
+whisper-tiny,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Road,False,root
+whisper-tiny,slr70-ngm_03349_00138141901,Nigerian English (SLR70),Oshi,False,bagbellchi
+whisper-tiny,slr70-ngm_03349_00138141901,Nigerian English (SLR70),Davido,False,singlebydvdo
+whisper-tiny,slr70-ngm_12484_00013457842,Nigerian English (SLR70),National,True,national
+whisper-tiny,slr70-ngm_12484_00013457842,Nigerian English (SLR70),Assembly,True,assembly
+whisper-tiny,slr70-ngm_09697_01795550370,Nigerian English (SLR70),Hawal,False,joint of our
+whisper-tiny,slr70-ngm_09697_01795550370,Nigerian English (SLR70),River,True,river
+whisper-tiny,slr70-ngm_02484_00821360311,Nigerian English (SLR70),Awolowo,False,until our lower
+whisper-tiny,slr70-ngm_02484_00821360311,Nigerian English (SLR70),Way,True,way
+whisper-tiny,slr70-ngm_08784_01294464072,Nigerian English (SLR70),Lyric,False,larry kamas means
+whisper-tiny,slr70-ngm_08784_01294464072,Nigerian English (SLR70),Hammersmith,False,larry kamas means
+whisper-tiny,slr70-ngm_08784_01294464072,Nigerian English (SLR70),London,True,london
+whisper-tiny,slr70-ngm_03349_01435829174,Nigerian English (SLR70),Warner,False,jakona
+whisper-tiny,slr70-ngm_12484_01676126092,Nigerian English (SLR70),National,True,national
+whisper-tiny,slr70-ngm_12484_01676126092,Nigerian English (SLR70),Doughnut,False,do notday
+whisper-tiny,slr70-ngm_12484_01676126092,Nigerian English (SLR70),Day,False,do notday
+whisper-tiny,slr70-ngm_03397_00186800710,Nigerian English (SLR70),German,True,german
+whisper-tiny,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Lufthansa,False,of stanza on chunking
+whisper-tiny,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Chongqing,False,of stanza on chunking
+whisper-tiny,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Toronto,True,toronto
+whisper-tiny,slr70-ngm_07508_01312404085,Nigerian English (SLR70),February,True,february
+whisper-tiny,slr70-ngm_09334_01514929857,Nigerian English (SLR70),Thanksgiving,True,thanksgiving
+whisper-tiny,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Mgbeke,False,in bikke
+whisper-tiny,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Mgborie,False,in buri a
+whisper-tiny,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Igbo,True,igbo
+whisper-tiny,slr70-ngm_07508_02121126736,Nigerian English (SLR70),Vampire,False,both in the frontpastly are the
+whisper-tiny,slr70-ngm_07508_02121126736,Nigerian English (SLR70),Slayer,False,both in the frontpastly are the
+whisper-tiny,slr70-ngm_07508_02121126736,Nigerian English (SLR70),American,True,american
+whisper-tiny,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Lokoja,False,luccoja nendian presidents umaa yadwar
+whisper-tiny,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Nigerian,False,luccoja nendian presidents umaa yadwar
+whisper-tiny,slr70-ngm_09697_02082444747,Nigerian English (SLR70),President,False,luccoja nendian presidents umaa yadwar
+whisper-tiny,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Umaru,False,luccoja nendian presidents umaa yadwar
+whisper-tiny,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Yar'Adua,False,luccoja nendian presidents umaa yadwar
+whisper-tiny,slr70-ngm_09697_02082444747,Nigerian English (SLR70),River,True,river
+whisper-tiny,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Niger,False,nanger
+whisper-tiny,slr70-ngm_02484_00629585267,Nigerian English (SLR70),Jukuns,False,in jacones
+whisper-tiny,slr70-ngm_08784_00979877369,Nigerian English (SLR70),Athena,False,tsar china art
+whisper-tiny,slr70-ngm_08784_00979877369,Nigerian English (SLR70),Troy,True,troy
+whisper-tiny,slr70-ngm_03397_01125615229,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-tiny,slr70-ngm_03397_01125615229,Nigerian English (SLR70),Navy,True,navy
+whisper-tiny,slr70-ngm_07508_00737996387,Nigerian English (SLR70),Vancouver,True,vancouver
+whisper-tiny,slr70-ngm_07508_00737996387,Nigerian English (SLR70),Cairo,False,kroo
+whisper-tiny,slr70-ngm_09697_01111839839,Nigerian English (SLR70),Oladunni,False,ola dune
+whisper-tiny,slr70-ngm_09697_01111839839,Nigerian English (SLR70),Street,True,street
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),William,True,william
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Shakespeare,True,shakespeare
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Geoffrey,False,joffrey
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Chaucer,True,chaucer
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Midsummer,False,amid summer
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Night's,True,nights
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Dream,True,dream
+whisper-tiny,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Tempest,True,tempest
+whisper-tiny,slr70-ngm_02484_01182619865,Nigerian English (SLR70),Ado,False,a do a kitty
+whisper-tiny,slr70-ngm_02484_01182619865,Nigerian English (SLR70),Ekiti,False,a do a kitty
+whisper-tiny,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Farpoint,False,in counteradfair points in
+whisper-tiny,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Star,True,star
+whisper-tiny,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Trek,True,trek
+whisper-tiny,slr70-ngm_08784_01867277568,Nigerian English (SLR70),The,True,the
+whisper-tiny,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Next,True,next
+whisper-tiny,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Generation,True,generation
+whisper-tiny,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Sierra,True,sierra
+whisper-tiny,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Leone,False,lune
+whisper-tiny,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Gabon,False,gabbon
+whisper-tiny,slr70-ngm_09334_00003183833,Nigerian English (SLR70),September,True,september
+whisper-tiny,slr70-ngm_01523_01010304125,Nigerian English (SLR70),Ivy,False,iv mic
+whisper-tiny,slr70-ngm_01523_01010304125,Nigerian English (SLR70),Mike,False,iv mic
+whisper-tiny,slr70-ngm_07508_00387151752,Nigerian English (SLR70),Oron,False,raining or on
+whisper-tiny,slr70-ngm_08784_01248925324,Nigerian English (SLR70),Michael's,False,ends my chaos display joe
+whisper-tiny,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Southwest,True,southwest
+whisper-tiny,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Airlines,True,airlines
+whisper-tiny,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Brisbane,True,brisbane
+whisper-tiny,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Brighton,True,brighton
+whisper-tiny,slr70-ngm_09334_01106469035,Nigerian English (SLR70),June,True,june
+whisper-tiny,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Delta,True,delta
+whisper-tiny,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Oil,False,oe revars
+whisper-tiny,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Rivers,False,oe revars
+whisper-tiny,slr70-ngm_12484_00167987669,Nigerian English (SLR70),Africa,True,africa
+whisper-tiny,slr70-ngm_07508_01187704520,Nigerian English (SLR70),Akpawfu,False,a puffin
+whisper-tiny,slr70-ngm_08784_00543445623,Nigerian English (SLR70),Dearth,False,dad
+whisper-tiny,slr70-ngm_02436_00794346660,Nigerian English (SLR70),School,True,school
+whisper-tiny,slr70-ngm_02436_00794346660,Nigerian English (SLR70),Committee,True,committee
+whisper-tiny,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Republic,True,republic
+whisper-tiny,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Benin,False,berlin
+whisper-tiny,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Chad,True,chad
+whisper-tiny,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Cameroon,False,cameron
+whisper-tiny,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Niger,True,niger
+whisper-tiny,slr70-ngm_01523_01486648640,Nigerian English (SLR70),Asian,False,ancient
+whisper-tiny,slr70-ngm_03397_00983959406,Nigerian English (SLR70),American,True,american
+whisper-tiny,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Airlines,True,airlines
+whisper-tiny,slr70-ngm_03397_00983959406,Nigerian English (SLR70),San,True,san
+whisper-tiny,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Francisco,True,francisco
+whisper-tiny,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Bangalore,False,baguillo
+whisper-tiny,slr70-ngm_03397_00983959406,Nigerian English (SLR70),April,True,april
+whisper-tiny,slr70-ngm_03397_00983959406,Nigerian English (SLR70),May,False,midsecond
+whisper-tiny,slr70-ngm_07508_00503848384,Nigerian English (SLR70),Jimeta,False,gmezza
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Annual,True,annual
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bulletin,True,bulletin
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Comparative,True,comparative
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Law,True,law
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bureau,True,bureau
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),American,True,american
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bar,False,basization
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Association,False,basization
+whisper-tiny,slr70-ngm_14310_01985280043,Nigerian English (SLR70),American,True,american
+whisper-tiny,slr70-ngm_02436_01051626088,Nigerian English (SLR70),Nneka,False,nika
+whisper-tiny,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Uko,False,uku
+whisper-tiny,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Abia,True,abia
+whisper-tiny,slr70-ngm_09334_00442236067,Nigerian English (SLR70),State,False,states 9g
+whisper-tiny,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Nigeria,False,states 9g
+whisper-tiny,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Ifokore,False,icoco ore
+whisper-tiny,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Ijebu,False,japanese area
+whisper-tiny,slr70-ngm_03397_01596957374,Nigerian English (SLR70),South-West,False,south west
+whisper-tiny,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Abu,True,abu
+whisper-tiny,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Dhabi,True,dhabi
+whisper-tiny,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Yangon,True,yangon
+whisper-tiny,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Chicago,False,tikago
+whisper-tiny,slr70-ngm_09697_01655669679,Nigerian English (SLR70),Ogbamremu,False,orbarmroom
+whisper-tiny,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Africa,False,freak eyes on our bombay nangerine physician famicousi religion rass
+whisper-tiny,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Nigerian,False,freak eyes on our bombay nangerine physician famicousi religion rass
+whisper-tiny,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Femi,False,freak eyes on our bombay nangerine physician famicousi religion rass
+whisper-tiny,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Kuti,False,freak eyes on our bombay nangerine physician famicousi religion rass
+whisper-tiny,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Wrasse,False,freak eyes on our bombay nangerine physician famicousi religion rass
+whisper-tiny,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Records,True,records
+whisper-tiny,slr70-ngm_14310_01487967404,Nigerian English (SLR70),Orlu,False,until all the
+whisper-tiny,slr70-ngm_14310_01487967404,Nigerian English (SLR70),Road,True,road
+whisper-tiny,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Campion,False,capion
+whisper-tiny,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Woundwort's,False,one of the
+whisper-tiny,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Campion,False,subordinates captain capion
+whisper-tiny,slr70-ngm_02436_01260408239,Nigerian English (SLR70),Omu-Aran,False,omunara
+whisper-tiny,slr70-ngm_09697_01202494665,Nigerian English (SLR70),Ahmedabad,True,ahmedabad
+whisper-tiny,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Bangladesh,True,bangladesh
+whisper-tiny,slr70-ngm_07049_00906016813,Nigerian English (SLR70),South,True,south
+whisper-tiny,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Korea,True,korea
+whisper-tiny,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Taiwan,True,taiwan
+whisper-tiny,slr70-ngm_02484_01454783271,Nigerian English (SLR70),Palestinians,False,a monk or a palasthenians
+whisper-tiny,slr70-ngm_02484_01454783271,Nigerian English (SLR70),Israel,True,israel
+whisper-tiny,slr70-ngm_03349_01033125487,Nigerian English (SLR70),Dike,True,dike
+whisper-tiny,slr70-ngm_09334_00432848307,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-tiny,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Benin,True,benin
+whisper-tiny,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Kingdom's,True,kingdoms
+whisper-tiny,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Edo,False,edustits
+whisper-tiny,slr70-ngm_01523_01651085419,Nigerian English (SLR70),State,False,edustits
+whisper-tiny,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Ryanair,False,fly some reanna
+whisper-tiny,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Gaza,True,gaza
+whisper-tiny,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Belfast,True,belfast
+whisper-tiny,slr70-ngm_07508_01652005537,Nigerian English (SLR70),March,True,march
+whisper-tiny,slr70-ngm_07508_01652005537,Nigerian English (SLR70),April,True,april
+whisper-tiny,slr70-ngm_02484_00666993468,Nigerian English (SLR70),Zaria,False,zarya
+whisper-tiny,slr70-ngm_02436_00166804918,Nigerian English (SLR70),Ukpabi,False,ibn upabi
+whisper-tiny,slr70-ngm_03349_01128666024,Nigerian English (SLR70),Coil,True,coil
+whisper-tiny,slr70-ngm_09334_02078122007,Nigerian English (SLR70),Mother's,True,mothers
+whisper-tiny,slr70-ngm_09334_02078122007,Nigerian English (SLR70),Day,True,day
+whisper-base,slr70-ngf_07508_02090606640,Nigerian English (SLR70),Ijaw,False,ijo
+whisper-base,slr70-ngf_07508_02090606640,Nigerian English (SLR70),Christians,True,christians
+whisper-base,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngf_02121_01471103165,Nigerian English (SLR70),West,True,west
+whisper-base,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Africa's,True,africas
+whisper-base,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Located,True,located
+whisper-base,slr70-ngf_02121_01471103165,Nigerian English (SLR70),In,True,in
+whisper-base,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Kakara,False,kakarata
+whisper-base,slr70-ngf_04310_01439906629,Nigerian English (SLR70),Hebrews,False,ebrews
+whisper-base,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Bros,False,one of our births created her pota
+whisper-base,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Harry,False,one of our births created her pota
+whisper-base,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Potter,False,one of our births created her pota
+whisper-base,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Harry,False,arpata
+whisper-base,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Potter,False,arpata
+whisper-base,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Wizarding,True,wizarding
+whisper-base,slr70-ngf_02436_00804725189,Nigerian English (SLR70),World,True,world
+whisper-base,slr70-ngf_09334_01392483947,Nigerian English (SLR70),Cameroon,True,cameroon
+whisper-base,slr70-ngf_09334_01392483947,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngf_07049_00819257439,Nigerian English (SLR70),Queen,True,queen
+whisper-base,slr70-ngf_12484_00669270730,Nigerian English (SLR70),National,True,national
+whisper-base,slr70-ngf_12484_00669270730,Nigerian English (SLR70),Doughnut,True,doughnut
+whisper-base,slr70-ngf_12484_00669270730,Nigerian English (SLR70),Day,True,day
+whisper-base,slr70-ngf_05223_01725838818,Nigerian English (SLR70),Houston,True,houston
+whisper-base,slr70-ngf_05223_01725838818,Nigerian English (SLR70),Hamburg,True,hamburg
+whisper-base,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Sandman,False,sunman guyman
+whisper-base,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Gaiman,False,sunman guyman
+whisper-base,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Death,True,death
+whisper-base,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Dream,True,dream
+whisper-base,slr70-ngf_07508_01190081775,Nigerian English (SLR70),Cali,True,cali
+whisper-base,slr70-ngf_07508_01190081775,Nigerian English (SLR70),Birmingham,True,birmingham
+whisper-base,slr70-ngf_07508_01190081775,Nigerian English (SLR70),December,True,december
+whisper-base,slr70-ngf_02436_00497631743,Nigerian English (SLR70),Ogoni,False,opening
+whisper-base,slr70-ngf_02436_00497631743,Nigerian English (SLR70),Khana,False,kana
+whisper-base,slr70-ngf_12484_01442041749,Nigerian English (SLR70),Atlanta,True,atlanta
+whisper-base,slr70-ngf_12484_01442041749,Nigerian English (SLR70),Georgia,True,georgia
+whisper-base,slr70-ngf_12484_01442041749,Nigerian English (SLR70),USA,True,usa
+whisper-base,slr70-ngf_05223_00207574014,Nigerian English (SLR70),Orlu,False,all
+whisper-base,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Chris,True,chris
+whisper-base,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Gehringer,False,goeringer
+whisper-base,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Sterling,True,sterling
+whisper-base,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Sound,True,sound
+whisper-base,slr70-ngf_06136_00624281315,Nigerian English (SLR70),New,True,new
+whisper-base,slr70-ngf_06136_00624281315,Nigerian English (SLR70),York,True,york
+whisper-base,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Nwashuku,False,washu koukiri
+whisper-base,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Okeri,False,washu koukiri
+whisper-base,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Ghadafi,False,garafi ezefili
+whisper-base,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Ezeifile,False,garafi ezefili
+whisper-base,slr70-ngf_00295_00869830997,Nigerian English (SLR70),Karnataka's,False,kanatakas flare
+whisper-base,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Western,True,western
+whisper-base,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Ifeoma,False,chin gui for machu kugoroi
+whisper-base,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Chukwuogo-Roy,False,chin gui for machu kugoroi
+whisper-base,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Awka,False,okah
+whisper-base,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Asian,True,asian
+whisper-base,slr70-ngf_02121_00912452686,Nigerian English (SLR70),African,True,african
+whisper-base,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Africa,True,africa
+whisper-base,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Zimbabwe,True,zimbabwe
+whisper-base,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Sri,True,sri
+whisper-base,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Lanka,True,lanka
+whisper-base,slr70-ngf_13397_00986779243,Nigerian English (SLR70),Scotland,True,scotland
+whisper-base,slr70-ngf_07049_01434063268,Nigerian English (SLR70),Sun,True,sun
+whisper-base,slr70-ngf_06136_00086683621,Nigerian English (SLR70),Plateau,False,platoon
+whisper-base,slr70-ngf_06136_00086683621,Nigerian English (SLR70),State,True,state
+whisper-base,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Sam,True,sam
+whisper-base,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Amuka,False,amukakwimu
+whisper-base,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Pemu,False,amukakwimu
+whisper-base,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Nigerian,False,an indian
+whisper-base,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Vanguard,True,vanguard
+whisper-base,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Port,True,port
+whisper-base,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Harcourt,False,acot
+whisper-base,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Warri,False,worry
+whisper-base,slr70-ngf_03349_00316858694,Nigerian English (SLR70),Cobain’s,False,corbins leftfued
+whisper-base,slr70-ngf_03349_00316858694,Nigerian English (SLR70),Burroughs-ian,False,burroughs ayant
+whisper-base,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Yelwa,False,yalwa
+whisper-base,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Mayo,True,mayo
+whisper-base,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Jigawal,False,gowal
+whisper-base,slr70-ngf_07508_00426225333,Nigerian English (SLR70),Asian,True,asian
+whisper-base,slr70-ngf_07508_00426225333,Nigerian English (SLR70),China,True,china
+whisper-base,slr70-ngf_07508_00426225333,Nigerian English (SLR70),Japan,False,to fund
+whisper-base,slr70-ngf_04310_01272673750,Nigerian English (SLR70),LA,True,la
+whisper-base,slr70-ngf_04310_01272673750,Nigerian English (SLR70),Galaxy,False,galaxia tie that
+whisper-base,slr70-ngf_02436_01336084577,Nigerian English (SLR70),European,True,european
+whisper-base,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Netherlands,True,netherlands
+whisper-base,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Rhine,True,rhine
+whisper-base,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Waal,False,wall
+whisper-base,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Meuse,False,muse
+whisper-base,slr70-ngf_09334_02123474476,Nigerian English (SLR70),Hines,False,and when he is published at serenes colali
+whisper-base,slr70-ngf_07049_02074471393,Nigerian English (SLR70),Kaduna,True,kaduna
+whisper-base,slr70-ngf_07049_02074471393,Nigerian English (SLR70),River,False,revise the
+whisper-base,slr70-ngf_07049_02074471393,Nigerian English (SLR70),Niger,True,niger
+whisper-base,slr70-ngf_07049_02074471393,Nigerian English (SLR70),River,True,river
+whisper-base,slr70-ngf_12484_00443694949,Nigerian English (SLR70),Starbucks,True,starbucks
+whisper-base,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-base,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Theophilus,False,philanthropists teofilos
+whisper-base,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Danjuma,True,danjuma
+whisper-base,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-base,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Montane,False,montin
+whisper-base,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Forest,True,forest
+whisper-base,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Project,False,projects
+whisper-base,slr70-ngf_01523_01610153741,Nigerian English (SLR70),Hawal,False,hawaul
+whisper-base,slr70-ngf_01523_01610153741,Nigerian English (SLR70),River,True,river
+whisper-base,slr70-ngf_08421_00200811744,Nigerian English (SLR70),Kyle,False,kylie
+whisper-base,slr70-ngf_02121_00376815325,Nigerian English (SLR70),United,True,united
+whisper-base,slr70-ngf_02121_00376815325,Nigerian English (SLR70),States,True,states
+whisper-base,slr70-ngf_02121_00376815325,Nigerian English (SLR70),May,True,may
+whisper-base,slr70-ngf_02121_00376815325,Nigerian English (SLR70),July,True,july
+whisper-base,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Phage,False,fage
+whisper-base,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Shadow,True,shadow
+whisper-base,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Death,True,death
+whisper-base,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Wheel,False,will
+whisper-base,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Worlds,True,worlds
+whisper-base,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Ibo,False,the eboard route
+whisper-base,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Road,False,the eboard route
+whisper-base,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Emir,True,emir
+whisper-base,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Road,False,route
+whisper-base,slr70-ngf_13397_00073151213,Nigerian English (SLR70),Thursday,True,thursday
+whisper-base,slr70-ngf_02484_01070585055,Nigerian English (SLR70),Mambila,False,mambilla
+whisper-base,slr70-ngf_05223_00725573110,Nigerian English (SLR70),Cameroonian,False,camerunian
+whisper-base,slr70-ngf_00610_00521756928,Nigerian English (SLR70),Okagbare,False,okabai
+whisper-base,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Gurun,False,on to grongawa
+whisper-base,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Gawa,False,on to grongawa
+whisper-base,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Road,True,road
+whisper-base,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Adamawa,False,adamoa
+whisper-base,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Plateau,True,plateau
+whisper-base,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Benue,False,benway
+whisper-base,slr70-ngf_03397_01207838616,Nigerian English (SLR70),River,True,river
+whisper-base,slr70-ngf_07508_00749184792,Nigerian English (SLR70),YA,True,ya
+whisper-base,slr70-ngf_13397_00186379124,Nigerian English (SLR70),Games,True,games
+whisper-base,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Nwagbo,False,i will be one more study mask
+whisper-base,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Mass,False,i will be one more study mask
+whisper-base,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Communication,True,communication
+whisper-base,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Nnamdi,False,and namd azure
+whisper-base,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Azikiwe,False,and namd azure
+whisper-base,slr70-ngf_00610_00586731816,Nigerian English (SLR70),University,True,university
+whisper-base,slr70-ngf_01208_01024111830,Nigerian English (SLR70),TV,True,tv
+whisper-base,slr70-ngf_03349_00578501610,Nigerian English (SLR70),Awolowo,False,our world war v
+whisper-base,slr70-ngf_03349_00578501610,Nigerian English (SLR70),Way,False,our world war v
+whisper-base,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Lake,False,lecture
+whisper-base,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Chad,False,lecture
+whisper-base,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Niger,False,nigeria
+whisper-base,slr70-ngf_00295_01203608568,Nigerian English (SLR70),Makurdi,False,makodi
+whisper-base,slr70-ngf_01523_01167462034,Nigerian English (SLR70),Irish,True,irish
+whisper-base,slr70-ngf_07508_01118664892,Nigerian English (SLR70),Who,True,who
+whisper-base,slr70-ngf_02121_00850439910,Nigerian English (SLR70),Fulfulde,False,your gods know that pain did not infuse it
+whisper-base,slr70-ngf_04310_01954588528,Nigerian English (SLR70),Psalms,False,sounds
+whisper-base,slr70-ngf_02436_01379152411,Nigerian English (SLR70),Hamburg,True,hamburg
+whisper-base,slr70-ngf_02436_01379152411,Nigerian English (SLR70),Alexandria,False,zoolexandra living junsuo starts
+whisper-base,slr70-ngf_02436_01379152411,Nigerian English (SLR70),June,False,zoolexandra living junsuo starts
+whisper-base,slr70-ngf_07049_01892468519,Nigerian English (SLR70),Tijani,False,a lajitsi jani
+whisper-base,slr70-ngf_07049_01892468519,Nigerian English (SLR70),Road,True,road
+whisper-base,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Trains,True,trains
+whisper-base,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Steve,True,steve
+whisper-base,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Reich,False,reach
+whisper-base,slr70-ngf_00295_00533592558,Nigerian English (SLR70),West,True,west
+whisper-base,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Flanders,True,flanders
+whisper-base,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Southwest,True,southwest
+whisper-base,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Netherlands,True,netherlands
+whisper-base,slr70-ngf_00295_00533592558,Nigerian English (SLR70),English,True,english
+whisper-base,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Channel,True,channel
+whisper-base,slr70-ngf_08421_00257345492,Nigerian English (SLR70),Google,True,google
+whisper-base,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Annang,False,anang ibibu
+whisper-base,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Ibibio,False,anang ibibu
+whisper-base,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Efik,False,ethic
+whisper-base,slr70-ngf_09334_00561288625,Nigerian English (SLR70),French,True,french
+whisper-base,slr70-ngf_13397_01540607308,Nigerian English (SLR70),Oyster,True,oyster
+whisper-base,slr70-ngf_13397_01540607308,Nigerian English (SLR70),Transport,False,transports
+whisper-base,slr70-ngf_13397_01540607308,Nigerian English (SLR70),London,True,london
+whisper-base,slr70-ngf_12484_01557755982,Nigerian English (SLR70),Jacksonville,True,jacksonville
+whisper-base,slr70-ngf_05223_00681223026,Nigerian English (SLR70),Uyo,False,lieu
+whisper-base,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Northern,False,notten kamaru
+whisper-base,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Cameroon,False,notten kamaru
+whisper-base,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Province,True,province
+whisper-base,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Mubi,False,hedquatad azmubi has been invited
+whisper-base,slr70-ngf_06136_01312546283,Nigerian English (SLR70),Ukpabi,False,ibn upavi
+whisper-base,slr70-ngf_03349_00863382736,Nigerian English (SLR70),Dike,False,indeed the decade
+whisper-base,slr70-ngm_02484_00715382317,Nigerian English (SLR70),Carter,False,cut off from each
+whisper-base,slr70-ngm_08784_00499340906,Nigerian English (SLR70),Alaska,True,alaska
+whisper-base,slr70-ngm_08784_00499340906,Nigerian English (SLR70),Peninsula,True,peninsula
+whisper-base,slr70-ngm_08784_00499340906,Nigerian English (SLR70),North,False,notamerican
+whisper-base,slr70-ngm_08784_00499340906,Nigerian English (SLR70),American,False,notamerican
+whisper-base,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Mambilla,False,man be laplied to use
+whisper-base,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Plateau,False,man be laplied to use
+whisper-base,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Bantu-speaking,False,band to speak in
+whisper-base,slr70-ngm_07049_01592044424,Nigerian English (SLR70),Barrel,False,bioroll
+whisper-base,slr70-ngm_07049_01592044424,Nigerian English (SLR70),Roll,False,bioroll
+whisper-base,slr70-ngm_02436_01210631292,Nigerian English (SLR70),Idemili,False,idemily
+whisper-base,slr70-ngm_02436_01210631292,Nigerian English (SLR70),North,True,north
+whisper-base,slr70-ngm_02436_01210631292,Nigerian English (SLR70),Anambra,True,anambra
+whisper-base,slr70-ngm_01523_00504649603,Nigerian English (SLR70),Nnenne,False,nene
+whisper-base,slr70-ngm_03397_00783071422,Nigerian English (SLR70),Port,True,port
+whisper-base,slr70-ngm_03397_00783071422,Nigerian English (SLR70),Moresby,False,mosby
+whisper-base,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Many,True,many
+whisper-base,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Splendoured,False,splendid things
+whisper-base,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Thing,False,splendid things
+whisper-base,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Yola,False,yolar
+whisper-base,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Road,True,road
+whisper-base,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Scope,False,skopr
+whisper-base,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Road,True,road
+whisper-base,slr70-ngm_03349_00138141901,Nigerian English (SLR70),Oshi,False,baguilleshi
+whisper-base,slr70-ngm_03349_00138141901,Nigerian English (SLR70),Davido,False,dvd
+whisper-base,slr70-ngm_12484_00013457842,Nigerian English (SLR70),National,True,national
+whisper-base,slr70-ngm_12484_00013457842,Nigerian English (SLR70),Assembly,True,assembly
+whisper-base,slr70-ngm_09697_01795550370,Nigerian English (SLR70),Hawal,False,owl
+whisper-base,slr70-ngm_09697_01795550370,Nigerian English (SLR70),River,True,river
+whisper-base,slr70-ngm_02484_00821360311,Nigerian English (SLR70),Awolowo,False,on to our logo away
+whisper-base,slr70-ngm_02484_00821360311,Nigerian English (SLR70),Way,False,on to our logo away
+whisper-base,slr70-ngm_08784_01294464072,Nigerian English (SLR70),Lyric,False,a delivery command smith
+whisper-base,slr70-ngm_08784_01294464072,Nigerian English (SLR70),Hammersmith,False,a delivery command smith
+whisper-base,slr70-ngm_08784_01294464072,Nigerian English (SLR70),London,True,london
+whisper-base,slr70-ngm_03349_01435829174,Nigerian English (SLR70),Warner,False,jacuna
+whisper-base,slr70-ngm_12484_01676126092,Nigerian English (SLR70),National,True,national
+whisper-base,slr70-ngm_12484_01676126092,Nigerian English (SLR70),Doughnut,False,do not
+whisper-base,slr70-ngm_12484_01676126092,Nigerian English (SLR70),Day,True,day
+whisper-base,slr70-ngm_03397_00186800710,Nigerian English (SLR70),German,True,german
+whisper-base,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Lufthansa,False,of the stansa on
+whisper-base,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Chongqing,True,chongqing
+whisper-base,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Toronto,True,toronto
+whisper-base,slr70-ngm_07508_01312404085,Nigerian English (SLR70),February,True,february
+whisper-base,slr70-ngm_09334_01514929857,Nigerian English (SLR70),Thanksgiving,True,thanksgiving
+whisper-base,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Mgbeke,False,inbeke
+whisper-base,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Mgborie,False,inburie
+whisper-base,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Igbo,False,igbopibu
+whisper-base,slr70-ngm_07508_02121126736,Nigerian English (SLR70),Vampire,False,both in different parts of the year
+whisper-base,slr70-ngm_07508_02121126736,Nigerian English (SLR70),Slayer,False,both in different parts of the year
+whisper-base,slr70-ngm_07508_02121126736,Nigerian English (SLR70),American,True,american
+whisper-base,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Lokoja,False,lukuja named young president umayadwar
+whisper-base,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Nigerian,False,lukuja named young president umayadwar
+whisper-base,slr70-ngm_09697_02082444747,Nigerian English (SLR70),President,False,lukuja named young president umayadwar
+whisper-base,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Umaru,False,lukuja named young president umayadwar
+whisper-base,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Yar'Adua,False,lukuja named young president umayadwar
+whisper-base,slr70-ngm_09697_02082444747,Nigerian English (SLR70),River,True,river
+whisper-base,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Niger,False,nainja
+whisper-base,slr70-ngm_02484_00629585267,Nigerian English (SLR70),Jukuns,False,in japans
+whisper-base,slr70-ngm_08784_00979877369,Nigerian English (SLR70),Athena,True,athena
+whisper-base,slr70-ngm_08784_00979877369,Nigerian English (SLR70),Troy,True,troy
+whisper-base,slr70-ngm_03397_01125615229,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-base,slr70-ngm_03397_01125615229,Nigerian English (SLR70),Navy,False,even
+whisper-base,slr70-ngm_07508_00737996387,Nigerian English (SLR70),Vancouver,True,vancouver
+whisper-base,slr70-ngm_07508_00737996387,Nigerian English (SLR70),Cairo,True,cairo
+whisper-base,slr70-ngm_09697_01111839839,Nigerian English (SLR70),Oladunni,False,ola duni
+whisper-base,slr70-ngm_09697_01111839839,Nigerian English (SLR70),Street,True,street
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),William,True,william
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Shakespeare,True,shakespeare
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Geoffrey,False,joffrey chosa
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Chaucer,False,joffrey chosa
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Midsummer,True,midsummer
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Night's,True,nights
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Dream,True,dream
+whisper-base,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Tempest,True,tempest
+whisper-base,slr70-ngm_02484_01182619865,Nigerian English (SLR70),Ado,False,and a doikiti
+whisper-base,slr70-ngm_02484_01182619865,Nigerian English (SLR70),Ekiti,False,and a doikiti
+whisper-base,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Farpoint,False,4 points
+whisper-base,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Star,True,star
+whisper-base,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Trek,True,trek
+whisper-base,slr70-ngm_08784_01867277568,Nigerian English (SLR70),The,True,the
+whisper-base,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Next,True,next
+whisper-base,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Generation,True,generation
+whisper-base,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Sierra,False,cerealun
+whisper-base,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Leone,False,cerealun
+whisper-base,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Gabon,True,gabon
+whisper-base,slr70-ngm_09334_00003183833,Nigerian English (SLR70),September,True,september
+whisper-base,slr70-ngm_01523_01010304125,Nigerian English (SLR70),Ivy,False,ivmake
+whisper-base,slr70-ngm_01523_01010304125,Nigerian English (SLR70),Mike,False,ivmake
+whisper-base,slr70-ngm_07508_00387151752,Nigerian English (SLR70),Oron,False,raining or wrong
+whisper-base,slr70-ngm_08784_01248925324,Nigerian English (SLR70),Michael's,False,hence my chaos
+whisper-base,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Southwest,True,southwest
+whisper-base,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Airlines,True,airlines
+whisper-base,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Brisbane,True,brisbane
+whisper-base,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Brighton,True,brighton
+whisper-base,slr70-ngm_09334_01106469035,Nigerian English (SLR70),June,True,june
+whisper-base,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Delta,True,delta
+whisper-base,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Oil,True,oil
+whisper-base,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Rivers,False,reverse
+whisper-base,slr70-ngm_12484_00167987669,Nigerian English (SLR70),Africa,True,africa
+whisper-base,slr70-ngm_07508_01187704520,Nigerian English (SLR70),Akpawfu,False,akpafu
+whisper-base,slr70-ngm_08784_00543445623,Nigerian English (SLR70),Dearth,False,death
+whisper-base,slr70-ngm_02436_00794346660,Nigerian English (SLR70),School,True,school
+whisper-base,slr70-ngm_02436_00794346660,Nigerian English (SLR70),Committee,True,committee
+whisper-base,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Republic,True,republic
+whisper-base,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Benin,False,ben and
+whisper-base,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Chad,True,chad
+whisper-base,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Cameroon,True,cameroon
+whisper-base,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Niger,True,niger
+whisper-base,slr70-ngm_01523_01486648640,Nigerian English (SLR70),Asian,True,asian
+whisper-base,slr70-ngm_03397_00983959406,Nigerian English (SLR70),American,True,american
+whisper-base,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Airlines,True,airlines
+whisper-base,slr70-ngm_03397_00983959406,Nigerian English (SLR70),San,True,san
+whisper-base,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Francisco,True,francisco
+whisper-base,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Bangalore,False,bagelow
+whisper-base,slr70-ngm_03397_00983959406,Nigerian English (SLR70),April,True,april
+whisper-base,slr70-ngm_03397_00983959406,Nigerian English (SLR70),May,False,midsecond
+whisper-base,slr70-ngm_07508_00503848384,Nigerian English (SLR70),Jimeta,False,diameter
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Annual,False,anwar
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bulletin,True,bulletin
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Comparative,True,comparative
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Law,True,law
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bureau,True,bureau
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),American,True,american
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bar,True,bar
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Association,True,association
+whisper-base,slr70-ngm_14310_01985280043,Nigerian English (SLR70),American,True,american
+whisper-base,slr70-ngm_02436_01051626088,Nigerian English (SLR70),Nneka,False,nika
+whisper-base,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Uko,True,uko
+whisper-base,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Abia,True,abia
+whisper-base,slr70-ngm_09334_00442236067,Nigerian English (SLR70),State,True,state
+whisper-base,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Ifokore,False,ikoko re
+whisper-base,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Ijebu,False,jibu
+whisper-base,slr70-ngm_03397_01596957374,Nigerian English (SLR70),South-West,True,southwest
+whisper-base,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Abu,True,abu
+whisper-base,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Dhabi,True,dhabi
+whisper-base,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Yangon,True,yangon
+whisper-base,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Chicago,False,tikago
+whisper-base,slr70-ngm_09697_01655669679,Nigerian English (SLR70),Ogbamremu,False,ogburn rimmel
+whisper-base,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Africa,True,africa
+whisper-base,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-base,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Femi,False,femik
+whisper-base,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Kuti,True,kuti
+whisper-base,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Wrasse,False,ras
+whisper-base,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Records,True,records
+whisper-base,slr70-ngm_14310_01487967404,Nigerian English (SLR70),Orlu,False,on to our lurald
+whisper-base,slr70-ngm_14310_01487967404,Nigerian English (SLR70),Road,False,on to our lurald
+whisper-base,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Campion,False,kapion
+whisper-base,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Woundwort's,False,one of the
+whisper-base,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Campion,False,subordinates captain kapion
+whisper-base,slr70-ngm_02436_01260408239,Nigerian English (SLR70),Omu-Aran,False,oumuara
+whisper-base,slr70-ngm_09697_01202494665,Nigerian English (SLR70),Ahmedabad,False,lights for my medabad
+whisper-base,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Bangladesh,True,bangladesh
+whisper-base,slr70-ngm_07049_00906016813,Nigerian English (SLR70),South,True,south
+whisper-base,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Korea,True,korea
+whisper-base,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Taiwan,False,their own have but
+whisper-base,slr70-ngm_02484_01454783271,Nigerian English (SLR70),Palestinians,False,a monk or da palasthenians
+whisper-base,slr70-ngm_02484_01454783271,Nigerian English (SLR70),Israel,True,israel
+whisper-base,slr70-ngm_03349_01033125487,Nigerian English (SLR70),Dike,False,in the dk
+whisper-base,slr70-ngm_09334_00432848307,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-base,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Benin,False,benink
+whisper-base,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Kingdom's,True,kingdoms
+whisper-base,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Edo,False,edustite
+whisper-base,slr70-ngm_01523_01651085419,Nigerian English (SLR70),State,False,edustite
+whisper-base,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Ryanair,False,rihanna
+whisper-base,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Gaza,True,gaza
+whisper-base,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Belfast,True,belfast
+whisper-base,slr70-ngm_07508_01652005537,Nigerian English (SLR70),March,True,march
+whisper-base,slr70-ngm_07508_01652005537,Nigerian English (SLR70),April,True,april
+whisper-base,slr70-ngm_02484_00666993468,Nigerian English (SLR70),Zaria,False,zarya
+whisper-base,slr70-ngm_02436_00166804918,Nigerian English (SLR70),Ukpabi,False,ibn uppabi
+whisper-base,slr70-ngm_03349_01128666024,Nigerian English (SLR70),Coil,True,coil
+whisper-base,slr70-ngm_09334_02078122007,Nigerian English (SLR70),Mother's,True,mothers
+whisper-base,slr70-ngm_09334_02078122007,Nigerian English (SLR70),Day,True,day
+whisper-small,slr70-ngf_07508_02090606640,Nigerian English (SLR70),Ijaw,False,ijo
+whisper-small,slr70-ngf_07508_02090606640,Nigerian English (SLR70),Christians,True,christians
+whisper-small,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngf_02121_01471103165,Nigerian English (SLR70),West,True,west
+whisper-small,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Africa's,True,africas
+whisper-small,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Located,True,located
+whisper-small,slr70-ngf_02121_01471103165,Nigerian English (SLR70),In,True,in
+whisper-small,slr70-ngf_02121_01471103165,Nigerian English (SLR70),Kakara,False,kakarata
+whisper-small,slr70-ngf_04310_01439906629,Nigerian English (SLR70),Hebrews,True,hebrews
+whisper-small,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Bros,True,bros
+whisper-small,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Harry,True,harry
+whisper-small,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Potter,True,potter
+whisper-small,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Harry,True,harry
+whisper-small,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Potter,True,potter
+whisper-small,slr70-ngf_02436_00804725189,Nigerian English (SLR70),Wizarding,True,wizarding
+whisper-small,slr70-ngf_02436_00804725189,Nigerian English (SLR70),World,True,world
+whisper-small,slr70-ngf_09334_01392483947,Nigerian English (SLR70),Cameroon,True,cameroon
+whisper-small,slr70-ngf_09334_01392483947,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngf_07049_00819257439,Nigerian English (SLR70),Queen,True,queen
+whisper-small,slr70-ngf_12484_00669270730,Nigerian English (SLR70),National,True,national
+whisper-small,slr70-ngf_12484_00669270730,Nigerian English (SLR70),Doughnut,False,donut
+whisper-small,slr70-ngf_12484_00669270730,Nigerian English (SLR70),Day,True,day
+whisper-small,slr70-ngf_05223_01725838818,Nigerian English (SLR70),Houston,True,houston
+whisper-small,slr70-ngf_05223_01725838818,Nigerian English (SLR70),Hamburg,True,hamburg
+whisper-small,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Sandman,True,sandman
+whisper-small,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Gaiman,True,gaiman
+whisper-small,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Death,True,death
+whisper-small,slr70-ngf_00610_02002959377,Nigerian English (SLR70),Dream,True,dream
+whisper-small,slr70-ngf_07508_01190081775,Nigerian English (SLR70),Cali,True,cali
+whisper-small,slr70-ngf_07508_01190081775,Nigerian English (SLR70),Birmingham,True,birmingham
+whisper-small,slr70-ngf_07508_01190081775,Nigerian English (SLR70),December,True,december
+whisper-small,slr70-ngf_02436_00497631743,Nigerian English (SLR70),Ogoni,False,ogbuni
+whisper-small,slr70-ngf_02436_00497631743,Nigerian English (SLR70),Khana,False,kana
+whisper-small,slr70-ngf_12484_01442041749,Nigerian English (SLR70),Atlanta,True,atlanta
+whisper-small,slr70-ngf_12484_01442041749,Nigerian English (SLR70),Georgia,True,georgia
+whisper-small,slr70-ngf_12484_01442041749,Nigerian English (SLR70),USA,True,usa
+whisper-small,slr70-ngf_05223_00207574014,Nigerian English (SLR70),Orlu,False,oulu
+whisper-small,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Chris,True,chris
+whisper-small,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Gehringer,False,geringa
+whisper-small,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Sterling,False,stirling
+whisper-small,slr70-ngf_06136_00624281315,Nigerian English (SLR70),Sound,True,sound
+whisper-small,slr70-ngf_06136_00624281315,Nigerian English (SLR70),New,True,new
+whisper-small,slr70-ngf_06136_00624281315,Nigerian English (SLR70),York,True,york
+whisper-small,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Nwashuku,False,uwashuku okerry
+whisper-small,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Okeri,False,uwashuku okerry
+whisper-small,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Ghadafi,False,gaddafi ezefili
+whisper-small,slr70-ngf_03349_01747152789,Nigerian English (SLR70),Ezeifile,False,gaddafi ezefili
+whisper-small,slr70-ngf_00295_00869830997,Nigerian English (SLR70),Karnataka's,False,kanatakas
+whisper-small,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Western,True,western
+whisper-small,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngf_08421_01635209053,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Ifeoma,False,chinwai formatukugoroi
+whisper-small,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Chukwuogo-Roy,False,chinwai formatukugoroi
+whisper-small,slr70-ngf_07508_01235378927,Nigerian English (SLR70),Awka,False,okka
+whisper-small,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Asian,True,asian
+whisper-small,slr70-ngf_02121_00912452686,Nigerian English (SLR70),African,True,african
+whisper-small,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Africa,True,africa
+whisper-small,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Zimbabwe,True,zimbabwe
+whisper-small,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Sri,True,sri
+whisper-small,slr70-ngf_02121_00912452686,Nigerian English (SLR70),Lanka,True,lanka
+whisper-small,slr70-ngf_13397_00986779243,Nigerian English (SLR70),Scotland,True,scotland
+whisper-small,slr70-ngf_07049_01434063268,Nigerian English (SLR70),Sun,True,sun
+whisper-small,slr70-ngf_06136_00086683621,Nigerian English (SLR70),Plateau,True,plateau
+whisper-small,slr70-ngf_06136_00086683621,Nigerian English (SLR70),State,True,state
+whisper-small,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Sam,True,sam
+whisper-small,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Amuka,False,amukakpemu
+whisper-small,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Pemu,False,amukakpemu
+whisper-small,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-small,slr70-ngf_01208_00990276535,Nigerian English (SLR70),Vanguard,True,vanguard
+whisper-small,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Port,False,potarkot
+whisper-small,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Harcourt,False,potarkot
+whisper-small,slr70-ngf_15223_00628322875,Nigerian English (SLR70),Warri,False,worry
+whisper-small,slr70-ngf_03349_00316858694,Nigerian English (SLR70),Cobain’s,True,cobains
+whisper-small,slr70-ngf_03349_00316858694,Nigerian English (SLR70),Burroughs-ian,False,borus iyan college
+whisper-small,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Yelwa,True,yelwa
+whisper-small,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Mayo,False,mayor
+whisper-small,slr70-ngf_03397_00697539733,Nigerian English (SLR70),Jigawal,True,jigawal
+whisper-small,slr70-ngf_07508_00426225333,Nigerian English (SLR70),Asian,True,asian
+whisper-small,slr70-ngf_07508_00426225333,Nigerian English (SLR70),China,True,china
+whisper-small,slr70-ngf_07508_00426225333,Nigerian English (SLR70),Japan,False,to plan
+whisper-small,slr70-ngf_04310_01272673750,Nigerian English (SLR70),LA,True,la
+whisper-small,slr70-ngf_04310_01272673750,Nigerian English (SLR70),Galaxy,False,galaxia
+whisper-small,slr70-ngf_02436_01336084577,Nigerian English (SLR70),European,True,european
+whisper-small,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Netherlands,True,netherlands
+whisper-small,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Rhine,True,rhine
+whisper-small,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Waal,False,wall
+whisper-small,slr70-ngf_02436_01336084577,Nigerian English (SLR70),Meuse,False,meos
+whisper-small,slr70-ngf_09334_02123474476,Nigerian English (SLR70),Hines,False,and when he is published at teorins kuala ligionneau
+whisper-small,slr70-ngf_07049_02074471393,Nigerian English (SLR70),Kaduna,True,kaduna
+whisper-small,slr70-ngf_07049_02074471393,Nigerian English (SLR70),River,True,river
+whisper-small,slr70-ngf_07049_02074471393,Nigerian English (SLR70),Niger,True,niger
+whisper-small,slr70-ngf_07049_02074471393,Nigerian English (SLR70),River,True,river
+whisper-small,slr70-ngf_12484_00443694949,Nigerian English (SLR70),Starbucks,True,starbucks
+whisper-small,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-small,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Theophilus,False,theo philos
+whisper-small,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Danjuma,True,danjuma
+whisper-small,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-small,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Montane,False,mountain
+whisper-small,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Forest,True,forest
+whisper-small,slr70-ngf_00610_01634429566,Nigerian English (SLR70),Project,True,project
+whisper-small,slr70-ngf_01523_01610153741,Nigerian English (SLR70),Hawal,False,howell
+whisper-small,slr70-ngf_01523_01610153741,Nigerian English (SLR70),River,True,river
+whisper-small,slr70-ngf_08421_00200811744,Nigerian English (SLR70),Kyle,False,kali
+whisper-small,slr70-ngf_02121_00376815325,Nigerian English (SLR70),United,True,united
+whisper-small,slr70-ngf_02121_00376815325,Nigerian English (SLR70),States,True,states
+whisper-small,slr70-ngf_02121_00376815325,Nigerian English (SLR70),May,True,may
+whisper-small,slr70-ngf_02121_00376815325,Nigerian English (SLR70),July,True,july
+whisper-small,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Phage,False,fage
+whisper-small,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Shadow,True,shadow
+whisper-small,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Death,True,death
+whisper-small,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Wheel,True,wheel
+whisper-small,slr70-ngf_04310_01290447077,Nigerian English (SLR70),Worlds,True,worlds
+whisper-small,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Ibo,False,the igbo route
+whisper-small,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Road,False,the igbo route
+whisper-small,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Emir,False,emia route
+whisper-small,slr70-ngf_09334_01983573384,Nigerian English (SLR70),Road,False,emia route
+whisper-small,slr70-ngf_13397_00073151213,Nigerian English (SLR70),Thursday,True,thursday
+whisper-small,slr70-ngf_02484_01070585055,Nigerian English (SLR70),Mambila,True,mambila
+whisper-small,slr70-ngf_05223_00725573110,Nigerian English (SLR70),Cameroonian,True,cameroonian
+whisper-small,slr70-ngf_00610_00521756928,Nigerian English (SLR70),Okagbare,False,okubo
+whisper-small,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Gurun,False,gurungawa
+whisper-small,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Gawa,False,gurungawa
+whisper-small,slr70-ngf_03349_01918951738,Nigerian English (SLR70),Road,True,road
+whisper-small,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Adamawa,True,adamawa
+whisper-small,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Plateau,True,plateau
+whisper-small,slr70-ngf_03397_01207838616,Nigerian English (SLR70),Benue,False,benway
+whisper-small,slr70-ngf_03397_01207838616,Nigerian English (SLR70),River,True,river
+whisper-small,slr70-ngf_07508_00749184792,Nigerian English (SLR70),YA,True,ya
+whisper-small,slr70-ngf_13397_00186379124,Nigerian English (SLR70),Games,True,games
+whisper-small,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Nwagbo,False,it will be one both study
+whisper-small,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Mass,True,mass
+whisper-small,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Communication,True,communication
+whisper-small,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Nnamdi,False,and namd as a qa
+whisper-small,slr70-ngf_00610_00586731816,Nigerian English (SLR70),Azikiwe,False,and namd as a qa
+whisper-small,slr70-ngf_00610_00586731816,Nigerian English (SLR70),University,True,university
+whisper-small,slr70-ngf_01208_01024111830,Nigerian English (SLR70),TV,True,tv
+whisper-small,slr70-ngf_03349_00578501610,Nigerian English (SLR70),Awolowo,False,on to our world war v
+whisper-small,slr70-ngf_03349_00578501610,Nigerian English (SLR70),Way,False,on to our world war v
+whisper-small,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Lake,False,lecture
+whisper-small,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Chad,False,lecture
+whisper-small,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngf_03397_00591031591,Nigerian English (SLR70),Niger,False,nigeria
+whisper-small,slr70-ngf_00295_01203608568,Nigerian English (SLR70),Makurdi,False,makode
+whisper-small,slr70-ngf_01523_01167462034,Nigerian English (SLR70),Irish,True,irish
+whisper-small,slr70-ngf_07508_01118664892,Nigerian English (SLR70),Who,True,who
+whisper-small,slr70-ngf_02121_00850439910,Nigerian English (SLR70),Fulfulde,False,fufu de
+whisper-small,slr70-ngf_04310_01954588528,Nigerian English (SLR70),Psalms,True,psalms
+whisper-small,slr70-ngf_02436_01379152411,Nigerian English (SLR70),Hamburg,True,hamburg
+whisper-small,slr70-ngf_02436_01379152411,Nigerian English (SLR70),Alexandria,False,alexandra living
+whisper-small,slr70-ngf_02436_01379152411,Nigerian English (SLR70),June,True,june
+whisper-small,slr70-ngf_07049_01892468519,Nigerian English (SLR70),Tijani,False,alargy to january
+whisper-small,slr70-ngf_07049_01892468519,Nigerian English (SLR70),Road,True,road
+whisper-small,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Trains,True,trains
+whisper-small,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Steve,True,steve
+whisper-small,slr70-ngf_05223_01671020314,Nigerian English (SLR70),Reich,False,rich
+whisper-small,slr70-ngf_00295_00533592558,Nigerian English (SLR70),West,True,west
+whisper-small,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Flanders,True,flanders
+whisper-small,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Southwest,True,southwest
+whisper-small,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Netherlands,True,netherlands
+whisper-small,slr70-ngf_00295_00533592558,Nigerian English (SLR70),English,True,english
+whisper-small,slr70-ngf_00295_00533592558,Nigerian English (SLR70),Channel,True,channel
+whisper-small,slr70-ngf_08421_00257345492,Nigerian English (SLR70),Google,True,google
+whisper-small,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Annang,False,anang ibibyo
+whisper-small,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Ibibio,False,anang ibibyo
+whisper-small,slr70-ngf_02436_01601489928,Nigerian English (SLR70),Efik,False,ethic
+whisper-small,slr70-ngf_09334_00561288625,Nigerian English (SLR70),French,True,french
+whisper-small,slr70-ngf_13397_01540607308,Nigerian English (SLR70),Oyster,True,oyster
+whisper-small,slr70-ngf_13397_01540607308,Nigerian English (SLR70),Transport,True,transport
+whisper-small,slr70-ngf_13397_01540607308,Nigerian English (SLR70),London,True,london
+whisper-small,slr70-ngf_12484_01557755982,Nigerian English (SLR70),Jacksonville,True,jacksonville
+whisper-small,slr70-ngf_05223_00681223026,Nigerian English (SLR70),Uyo,False,uyoo
+whisper-small,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Northern,False,notten
+whisper-small,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Cameroon,True,cameroon
+whisper-small,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Province,True,province
+whisper-small,slr70-ngf_00610_00466102740,Nigerian English (SLR70),Mubi,False,moobi
+whisper-small,slr70-ngf_06136_01312546283,Nigerian English (SLR70),Ukpabi,False,ibneupavi
+whisper-small,slr70-ngf_03349_00863382736,Nigerian English (SLR70),Dike,False,indeed the decade
+whisper-small,slr70-ngm_02484_00715382317,Nigerian English (SLR70),Carter,False,khata
+whisper-small,slr70-ngm_08784_00499340906,Nigerian English (SLR70),Alaska,True,alaska
+whisper-small,slr70-ngm_08784_00499340906,Nigerian English (SLR70),Peninsula,True,peninsula
+whisper-small,slr70-ngm_08784_00499340906,Nigerian English (SLR70),North,True,north
+whisper-small,slr70-ngm_08784_00499340906,Nigerian English (SLR70),American,True,american
+whisper-small,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Mambilla,False,mambila played to use
+whisper-small,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Plateau,False,mambila played to use
+whisper-small,slr70-ngm_03397_00856759779,Nigerian English (SLR70),Bantu-speaking,False,banter speaking
+whisper-small,slr70-ngm_07049_01592044424,Nigerian English (SLR70),Barrel,True,barrel
+whisper-small,slr70-ngm_07049_01592044424,Nigerian English (SLR70),Roll,False,row
+whisper-small,slr70-ngm_02436_01210631292,Nigerian English (SLR70),Idemili,True,idemili
+whisper-small,slr70-ngm_02436_01210631292,Nigerian English (SLR70),North,True,north
+whisper-small,slr70-ngm_02436_01210631292,Nigerian English (SLR70),Anambra,True,anambra
+whisper-small,slr70-ngm_01523_00504649603,Nigerian English (SLR70),Nnenne,False,nene
+whisper-small,slr70-ngm_03397_00783071422,Nigerian English (SLR70),Port,True,port
+whisper-small,slr70-ngm_03397_00783071422,Nigerian English (SLR70),Moresby,False,mosby
+whisper-small,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Many,True,many
+whisper-small,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Splendoured,False,splendor themes
+whisper-small,slr70-ngm_08784_01772099514,Nigerian English (SLR70),Thing,False,splendor themes
+whisper-small,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Yola,False,yula
+whisper-small,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Road,True,road
+whisper-small,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Scope,False,skop
+whisper-small,slr70-ngm_02436_00444953098,Nigerian English (SLR70),Road,True,road
+whisper-small,slr70-ngm_03349_00138141901,Nigerian English (SLR70),Oshi,False,baguio shi
+whisper-small,slr70-ngm_03349_00138141901,Nigerian English (SLR70),Davido,False,dvd
+whisper-small,slr70-ngm_12484_00013457842,Nigerian English (SLR70),National,True,national
+whisper-small,slr70-ngm_12484_00013457842,Nigerian English (SLR70),Assembly,True,assembly
+whisper-small,slr70-ngm_09697_01795550370,Nigerian English (SLR70),Hawal,False,awal
+whisper-small,slr70-ngm_09697_01795550370,Nigerian English (SLR70),River,True,river
+whisper-small,slr70-ngm_02484_00821360311,Nigerian English (SLR70),Awolowo,False,on to our lower
+whisper-small,slr70-ngm_02484_00821360311,Nigerian English (SLR70),Way,True,way
+whisper-small,slr70-ngm_08784_01294464072,Nigerian English (SLR70),Lyric,False,itran adiliri kama smith
+whisper-small,slr70-ngm_08784_01294464072,Nigerian English (SLR70),Hammersmith,False,itran adiliri kama smith
+whisper-small,slr70-ngm_08784_01294464072,Nigerian English (SLR70),London,True,london
+whisper-small,slr70-ngm_03349_01435829174,Nigerian English (SLR70),Warner,True,warner
+whisper-small,slr70-ngm_12484_01676126092,Nigerian English (SLR70),National,True,national
+whisper-small,slr70-ngm_12484_01676126092,Nigerian English (SLR70),Doughnut,False,do not
+whisper-small,slr70-ngm_12484_01676126092,Nigerian English (SLR70),Day,True,day
+whisper-small,slr70-ngm_03397_00186800710,Nigerian English (SLR70),German,True,german
+whisper-small,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Lufthansa,False,of the stanza on
+whisper-small,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Chongqing,True,chongqing
+whisper-small,slr70-ngm_07508_01312404085,Nigerian English (SLR70),Toronto,True,toronto
+whisper-small,slr70-ngm_07508_01312404085,Nigerian English (SLR70),February,True,february
+whisper-small,slr70-ngm_09334_01514929857,Nigerian English (SLR70),Thanksgiving,True,thanksgiving
+whisper-small,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Mgbeke,False,ikebeke
+whisper-small,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Mgborie,False,ikeburi
+whisper-small,slr70-ngm_01523_00525558663,Nigerian English (SLR70),Igbo,False,ikebo
+whisper-small,slr70-ngm_07508_02121126736,Nigerian English (SLR70),Vampire,True,vampire
+whisper-small,slr70-ngm_07508_02121126736,Nigerian English (SLR70),Slayer,True,slayer
+whisper-small,slr70-ngm_07508_02121126736,Nigerian English (SLR70),American,True,american
+whisper-small,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Lokoja,True,lokoja
+whisper-small,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-small,slr70-ngm_09697_02082444747,Nigerian English (SLR70),President,True,president
+whisper-small,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Umaru,False,umayyadwar
+whisper-small,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Yar'Adua,False,umayyadwar
+whisper-small,slr70-ngm_09697_02082444747,Nigerian English (SLR70),River,True,river
+whisper-small,slr70-ngm_09697_02082444747,Nigerian English (SLR70),Niger,True,niger
+whisper-small,slr70-ngm_02484_00629585267,Nigerian English (SLR70),Jukuns,False,in jacuns
+whisper-small,slr70-ngm_08784_00979877369,Nigerian English (SLR70),Athena,True,athena
+whisper-small,slr70-ngm_08784_00979877369,Nigerian English (SLR70),Troy,False,atroi
+whisper-small,slr70-ngm_03397_01125615229,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-small,slr70-ngm_03397_01125615229,Nigerian English (SLR70),Navy,True,navy
+whisper-small,slr70-ngm_07508_00737996387,Nigerian English (SLR70),Vancouver,True,vancouver
+whisper-small,slr70-ngm_07508_00737996387,Nigerian English (SLR70),Cairo,True,cairo
+whisper-small,slr70-ngm_09697_01111839839,Nigerian English (SLR70),Oladunni,False,oladunee
+whisper-small,slr70-ngm_09697_01111839839,Nigerian English (SLR70),Street,True,street
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),William,True,william
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Shakespeare,True,shakespeare
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Geoffrey,False,joffrey
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Chaucer,True,chaucer
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Midsummer,True,midsummer
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Night's,True,nights
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Dream,True,dream
+whisper-small,slr70-ngm_14310_02065190069,Nigerian English (SLR70),Tempest,True,tempest
+whisper-small,slr70-ngm_02484_01182619865,Nigerian English (SLR70),Ado,False,adoikiti
+whisper-small,slr70-ngm_02484_01182619865,Nigerian English (SLR70),Ekiti,False,adoikiti
+whisper-small,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Farpoint,False,40
+whisper-small,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Star,True,star
+whisper-small,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Trek,True,trek
+whisper-small,slr70-ngm_08784_01867277568,Nigerian English (SLR70),The,True,the
+whisper-small,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Next,True,next
+whisper-small,slr70-ngm_08784_01867277568,Nigerian English (SLR70),Generation,True,generation
+whisper-small,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Sierra,True,sierra
+whisper-small,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Leone,True,leone
+whisper-small,slr70-ngm_03349_01122487109,Nigerian English (SLR70),Gabon,True,gabon
+whisper-small,slr70-ngm_09334_00003183833,Nigerian English (SLR70),September,True,september
+whisper-small,slr70-ngm_01523_01010304125,Nigerian English (SLR70),Ivy,False,ivmic
+whisper-small,slr70-ngm_01523_01010304125,Nigerian English (SLR70),Mike,False,ivmic
+whisper-small,slr70-ngm_07508_00387151752,Nigerian English (SLR70),Oron,False,raining or on
+whisper-small,slr70-ngm_08784_01248925324,Nigerian English (SLR70),Michael's,True,michaels
+whisper-small,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Southwest,True,southwest
+whisper-small,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Airlines,True,airlines
+whisper-small,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Brisbane,True,brisbane
+whisper-small,slr70-ngm_09334_01106469035,Nigerian English (SLR70),Brighton,True,brighton
+whisper-small,slr70-ngm_09334_01106469035,Nigerian English (SLR70),June,True,june
+whisper-small,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Delta,True,delta
+whisper-small,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Oil,True,oil
+whisper-small,slr70-ngm_01523_02042431322,Nigerian English (SLR70),Rivers,True,rivers
+whisper-small,slr70-ngm_12484_00167987669,Nigerian English (SLR70),Africa,True,africa
+whisper-small,slr70-ngm_07508_01187704520,Nigerian English (SLR70),Akpawfu,False,aqpa foo
+whisper-small,slr70-ngm_08784_00543445623,Nigerian English (SLR70),Dearth,False,death
+whisper-small,slr70-ngm_02436_00794346660,Nigerian English (SLR70),School,True,school
+whisper-small,slr70-ngm_02436_00794346660,Nigerian English (SLR70),Committee,True,committee
+whisper-small,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Republic,True,republic
+whisper-small,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Benin,False,benengdu
+whisper-small,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Chad,True,chad
+whisper-small,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Cameroon,True,cameroon
+whisper-small,slr70-ngm_03349_00525826857,Nigerian English (SLR70),Niger,True,niger
+whisper-small,slr70-ngm_01523_01486648640,Nigerian English (SLR70),Asian,True,asian
+whisper-small,slr70-ngm_03397_00983959406,Nigerian English (SLR70),American,True,american
+whisper-small,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Airlines,True,airlines
+whisper-small,slr70-ngm_03397_00983959406,Nigerian English (SLR70),San,True,san
+whisper-small,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Francisco,True,francisco
+whisper-small,slr70-ngm_03397_00983959406,Nigerian English (SLR70),Bangalore,False,bagelow
+whisper-small,slr70-ngm_03397_00983959406,Nigerian English (SLR70),April,True,april
+whisper-small,slr70-ngm_03397_00983959406,Nigerian English (SLR70),May,False,midsecond
+whisper-small,slr70-ngm_07508_00503848384,Nigerian English (SLR70),Jimeta,False,geometer
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Annual,True,annual
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bulletin,True,bulletin
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Comparative,True,comparative
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Law,True,law
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bureau,True,bureau
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),American,True,american
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Bar,True,bar
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),Association,True,association
+whisper-small,slr70-ngm_14310_01985280043,Nigerian English (SLR70),American,True,american
+whisper-small,slr70-ngm_02436_01051626088,Nigerian English (SLR70),Nneka,False,nika
+whisper-small,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Uko,True,uko
+whisper-small,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Abia,True,abia
+whisper-small,slr70-ngm_09334_00442236067,Nigerian English (SLR70),State,True,state
+whisper-small,slr70-ngm_09334_00442236067,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Ifokore,False,ikkokore
+whisper-small,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Ijebu,False,jebu
+whisper-small,slr70-ngm_03397_01596957374,Nigerian English (SLR70),South-West,True,southwest
+whisper-small,slr70-ngm_03397_01596957374,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Abu,True,abu
+whisper-small,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Dhabi,True,dhabi
+whisper-small,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Yangon,True,yangon
+whisper-small,slr70-ngm_07508_01263185598,Nigerian English (SLR70),Chicago,True,chicago
+whisper-small,slr70-ngm_09697_01655669679,Nigerian English (SLR70),Ogbamremu,False,ogban remo
+whisper-small,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Africa,True,africa
+whisper-small,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Nigerian,True,nigerian
+whisper-small,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Femi,False,femme
+whisper-small,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Kuti,True,kuti
+whisper-small,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Wrasse,False,ross
+whisper-small,slr70-ngm_07049_01272111830,Nigerian English (SLR70),Records,True,records
+whisper-small,slr70-ngm_14310_01487967404,Nigerian English (SLR70),Orlu,False,on to oulu
+whisper-small,slr70-ngm_14310_01487967404,Nigerian English (SLR70),Road,True,road
+whisper-small,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Campion,False,kapion
+whisper-small,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Woundwort's,False,one of the worlds
+whisper-small,slr70-ngm_08784_01654223198,Nigerian English (SLR70),Campion,False,subordinates captain kapion
+whisper-small,slr70-ngm_02436_01260408239,Nigerian English (SLR70),Omu-Aran,False,oumu aro
+whisper-small,slr70-ngm_09697_01202494665,Nigerian English (SLR70),Ahmedabad,True,ahmedabad
+whisper-small,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Bangladesh,True,bangladesh
+whisper-small,slr70-ngm_07049_00906016813,Nigerian English (SLR70),South,True,south
+whisper-small,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Korea,True,korea
+whisper-small,slr70-ngm_07049_00906016813,Nigerian English (SLR70),Taiwan,True,taiwan
+whisper-small,slr70-ngm_02484_01454783271,Nigerian English (SLR70),Palestinians,True,palestinians
+whisper-small,slr70-ngm_02484_01454783271,Nigerian English (SLR70),Israel,True,israel
+whisper-small,slr70-ngm_03349_01033125487,Nigerian English (SLR70),Dike,False,in the decade
+whisper-small,slr70-ngm_09334_00432848307,Nigerian English (SLR70),Nigeria,True,nigeria
+whisper-small,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Benin,True,benin
+whisper-small,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Kingdom's,True,kingdoms
+whisper-small,slr70-ngm_01523_01651085419,Nigerian English (SLR70),Edo,True,edo
+whisper-small,slr70-ngm_01523_01651085419,Nigerian English (SLR70),State,False,states
+whisper-small,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Ryanair,False,flys and rihanna
+whisper-small,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Gaza,True,gaza
+whisper-small,slr70-ngm_07508_01652005537,Nigerian English (SLR70),Belfast,True,belfast
+whisper-small,slr70-ngm_07508_01652005537,Nigerian English (SLR70),March,True,march
+whisper-small,slr70-ngm_07508_01652005537,Nigerian English (SLR70),April,True,april
+whisper-small,slr70-ngm_02484_00666993468,Nigerian English (SLR70),Zaria,False,zarya
+whisper-small,slr70-ngm_02436_00166804918,Nigerian English (SLR70),Ukpabi,False,ibn uphabi
+whisper-small,slr70-ngm_03349_01128666024,Nigerian English (SLR70),Coil,True,coil
+whisper-small,slr70-ngm_09334_02078122007,Nigerian English (SLR70),Mother's,True,mothers
+whisper-small,slr70-ngm_09334_02078122007,Nigerian English (SLR70),Day,True,day
