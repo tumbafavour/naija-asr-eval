@@ -192,13 +192,15 @@ my_recordings_template.csv format for the optional own-recordings section
 requirements.txt           laptop requirements (tests only)
 requirements-colab.txt     extra packages the notebook installs on Colab
 CODE_EXPLANATION.md        design decisions and a walkthrough of the code
+LICENSE                    MIT licence for the code
 ```
 
 ## Data, privacy and licences
 
 - **No audio is committed to this repository, ever.** `.gitignore` blocks audio formats, and the notebook refuses to package results if it finds any. Audio is cached only in the user's private Google Drive.
 - Speaker IDs in the committed CSVs are replaced with per-run labels.
-- `results/` contains reference transcripts, so those files inherit the dataset licences:
+- **The code** (`.py` files and the notebook) is released under the [MIT License](LICENSE).
+- `results/` contains reference transcripts, so those files inherit the dataset licences, not MIT:
   - SLR70: CC BY-SA 4.0
   - AfriSpeech-200: CC BY-NC-SA 4.0 (non-commercial)
   - LibriSpeech: CC BY 4.0
