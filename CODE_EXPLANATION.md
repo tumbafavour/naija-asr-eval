@@ -52,7 +52,7 @@ Each decision lists the alternatives considered and why this one won.
 - **Alternatives:**
   - Put everything in the notebook. This is simpler, but nothing can be unit-tested, and notebook cells are easy to run out of order.
   - Build a full Python package (`src/`, `pyproject.toml`). That is cleaner for a large project, but more structure than a beginner needs to explain.
-- **Trade-off:** Colab needs the two `.py` files uploaded, or the repo cloned. In return, the exact code that produced the numbers is the code the 64 tests check. An optional cell in section 0 of the notebook can even run those tests on Colab.
+- **Trade-off:** Colab has to fetch the two `.py` files. The notebook clones the public repo, and falls back to asking for an upload. In return, the exact code that produced the numbers is the code the 64 tests check. An optional cell in section 0 of the notebook can even run those tests on Colab.
 
 ### 2.2 Writing the word alignment ourselves instead of using `jiwer`
 
@@ -177,7 +177,7 @@ The two corpora differ in recording setup, sentence sources and how speakers wer
 
 | Section | Purpose |
 |---|---|
-| 0 | Get the code (upload or clone). Optionally run the unit tests on Colab |
+| 0 | Get the code: clone the public repo (or `git pull` on a rerun), with upload as the fallback. Optionally run the unit tests on Colab |
 | Configuration | Every experimental constant in one place, including the `DATASETS` switch |
 | HF login | Uses the token from Colab Secrets; only required for AfriSpeech |
 | 1a, 1b | Inspect metadata **before** filtering: speakers per gender, malformed lines, accent labels, country/domain values |

@@ -152,7 +152,7 @@ AfriSpeech-200's authors (Olatunji et al., 2023) and others have already benchma
 
 1. Open [naija_asr_eval.ipynb](naija_asr_eval.ipynb) in Colab: File → Upload notebook.
 2. Runtime → Change runtime type → **T4 GPU**.
-3. Runtime → **Run all**. When asked, upload `metrics.py` and `slr70.py`, or set `REPO_URL` to clone this repository. Allow Google Drive access: it holds the audio cache and results, so a disconnect loses at most one batch.
+3. Runtime → **Run all**. The notebook clones this repository to get `metrics.py` and `slr70.py`. If cloning fails, it asks you to upload them. Allow Google Drive access: it holds the audio cache and results, so a disconnect loses at most one batch.
 4. The last cell checks that no audio is in `results/`, then downloads `naija_asr_results.zip`. Unzip it into `results/`.
 
 With `DATASETS = ["slr70"]` (the default) no Hugging Face token is needed. For AfriSpeech:
